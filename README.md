@@ -1,4 +1,5 @@
 PROJECT TITLE: Sales and Inventory Management System
+
 DECRIPTION:
 Imagine you are tasked with designing a Sales and Inventory Management System for a retail business. The business sells various products
 and needs a robust database system to manage sales transactions, track inventory lavels, and generate reports.
